@@ -2,3 +2,4 @@ blank_issues_enabled: false
 contact_links:
   - name: Please create issues in gitlab.com project
     url: https://gitlab.com/isard/isardvdi/-/issues/new
+    about: Use open button to go to gitlab.com project issue creation from
